@@ -30,4 +30,4 @@
 ## 🚀 Como Usar/Personalizar
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/leticia-cardoso/portfolio.git
+   git clone https://github.com/leticia-cardoso/portf-lio.git
