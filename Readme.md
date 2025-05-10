@@ -1,14 +1,13 @@
-Portfólio Profissional.
+
 
 # Portfólio de Letícia Vitória Cardoso ✨
 
-[![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-blue)](https://leticia-cardoso.github.io)
-[![Licença](https://img.shields.io/badge/Licença-MIT-green)](LICENSE)
+[![GitHub Pages](https://img.shields.io/badge/-GitHub%20Pages-purple)](https://letticardoso.github.io/Portf-lio/)
+
 
 **Portfólio pessoal** desenvolvido com HTML, CSS e JavaScript, inspirado no template *Ethereal* (HTML5 UP).  
-👉 **Acesse:** [https://leticia-cardoso.github.io](https://leticia-cardoso.github.io)
+👉 **Acesse:** [Portfólio](https://letticardoso.github.io/Portf-lio/)
 
-<img src="preview.png" alt="Preview do Portfólio" width="600">
 
 ---
 
